@@ -1,14 +1,14 @@
 README.md
 
-
+### Tic Tac Toe
 
 Board:
-	-- initialization list[] board
-	-- displayBoard
-	-- playerMove
-	-- flipPlayer
-	-- isWinner
-	-- isTie
+ initialization list[] board
+ displayBoard
+ playerMove
+ flipPlayer
+ isWinner
+ isTie
 
 
 
