@@ -2,18 +2,17 @@ README.md
 
 ### Tic Tac Toe
 
-Board:
- initialization list[] board
- displayBoard
- playerMove
- flipPlayer
- isWinner
- isTie
+1. Board:
+ - initialization list[] board
+ - displayBoard
+ - playerMove
+ - flipPlayer
+ - isWinner
+ - isTie
 
 
 
-Player:
-	playerName
-	playerChar
-	getPlayerName
-	getPlayerChar
+2. Player:
+ - Initialize self --> playerName, playerChar
+ - getPlayerName
+ - getPlayerChar
